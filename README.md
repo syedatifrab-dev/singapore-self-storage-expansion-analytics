@@ -428,6 +428,12 @@ This project demonstrates practical experience in:
 
 ---
 
+### Power BI File
+
+The complete Power BI report is available here:
+
+[Download Power BI Dashboard](powerbi/singapore_self_storage_expansion.pbix)
+
 # Disclaimer
 
 This is a portfolio project using synthetic data.
