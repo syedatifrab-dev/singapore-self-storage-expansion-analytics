@@ -12,6 +12,16 @@ location-based market analysis to support data-driven expansion decisions.
 
 ---
 
+### Dashboard Preview
+
+![Singapore Storage Dashboard](singapore_storage.png)
+
+### Power BI File
+
+The complete Power BI report is available here:
+
+[Download Power BI Dashboard](powerbi/singapore_self_storage_expansion.pbix)
+
 ## Business Objective
 
 The objective is to identify underserved Singapore planning areas and
@@ -163,10 +173,6 @@ The Executive Summary provides management with a high-level view of:
 - Customer demand
 - Competitor presence
 - Demand per competitor
-
-### Dashboard Preview
-
-![Singapore Storage Dashboard](singapore_storage.png)
 
 ---
 
@@ -425,12 +431,6 @@ This project demonstrates practical experience in:
 - Business Storytelling
 
 ---
-
-### Power BI File
-
-The complete Power BI report is available here:
-
-[Download Power BI Dashboard](powerbi/singapore_self_storage_expansion.pbix)
 
 # Disclaimer
 
