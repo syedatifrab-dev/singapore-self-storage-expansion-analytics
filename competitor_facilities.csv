@@ -1,0 +1,63 @@
+facility_id,planning_area,operator,facility_size_band,facility_area_sqft,avg_monthly_price_sgd,estimated_occupancy,promotion,access_type
+COMP-001,Boon Lay,Lock+Store,Medium,24823,270.0,0.803,20% off,Business hours
+COMP-002,Bedok,StorHub,Medium,16687,261.18,0.788,10% off,24/7
+COMP-003,Straits View,Storefriendly,Large,49107,419.73,0.629,None,24/7
+COMP-004,Western Water Catchment,Storefriendly,Small,16967,156.23,0.676,None,24/7
+COMP-005,Tengah,Lock+Store,Large,25728,470.65,0.654,None,Extended
+COMP-006,Marina South,Other,Medium,20104,258.42,0.894,30% off,24/7
+COMP-007,Jurong West,Storefriendly,Small,13917,150.46,0.856,None,Extended
+COMP-008,Central Water Catchment,StorHub,Large,29360,424.1,0.902,1 month free,24/7
+COMP-009,Changi Bay,StorHub,Small,12491,140.88,0.9,30% off,24/7
+COMP-010,Tengah,Extra Space Asia,Small,12729,162.98,0.68,None,24/7
+COMP-011,Geylang,Work+Store,Large,38964,414.79,0.697,1 month free,24/7
+COMP-012,Outram,StorHub,Large,42749,471.55,0.9,1 month free,Extended
+COMP-013,Bukit Panjang,Storefriendly,Medium,20301,263.28,0.885,None,24/7
+COMP-014,Jurong West,Lock+Store,Medium,23647,286.52,0.825,20% off,24/7
+COMP-015,Central Water Catchment,StorHub,Medium,17105,295.57,0.756,None,24/7
+COMP-016,Sengkang,Other,Small,17442,136.39,0.611,None,24/7
+COMP-017,Ang Mo Kio,Storefriendly,Medium,23662,291.91,0.905,None,24/7
+COMP-018,Tampines,Storefriendly,Small,14819,145.49,0.766,None,Business hours
+COMP-019,Woodlands,Storefriendly,Medium,22891,278.47,0.61,1 month free,Extended
+COMP-020,Punggol,Lock+Store,Medium,17871,289.05,0.567,None,24/7
+COMP-021,Ang Mo Kio,Extra Space Asia,Large,54912,486.66,0.862,30% off,24/7
+COMP-022,Marina South,StorHub,Small,10000,166.55,0.756,30% off,Business hours
+COMP-023,Geylang,Lock+Store,Small,14600,165.15,0.774,None,Extended
+COMP-024,Orchard,StorHub,Small,17766,181.79,0.836,10% off,Extended
+COMP-025,Simpang,Extra Space Asia,Large,44198,396.16,0.829,20% off,Extended
+COMP-026,Bukit Timah,Space Next Door,Medium,21949,272.94,0.695,10% off,Business hours
+COMP-027,Boon Lay,Extra Space Asia,Medium,20115,274.82,0.869,1 month free,24/7
+COMP-028,Pasir Ris,Extra Space Asia,Small,12164,150.05,0.672,20% off,24/7
+COMP-029,Bukit Timah,Extra Space Asia,Medium,21090,279.23,0.617,20% off,24/7
+COMP-030,Orchard,Extra Space Asia,Medium,26314,344.99,0.678,None,24/7
+COMP-031,Bukit Panjang,StorHub,Medium,26309,246.05,0.672,None,24/7
+COMP-032,Changi Bay,Storefriendly,Small,14493,146.27,0.551,30% off,24/7
+COMP-033,Marina South,StorHub,Small,8638,141.65,0.831,10% off,Extended
+COMP-034,Toa Payoh,StorHub,Small,13126,194.57,0.827,None,Extended
+COMP-035,Southern Islands,Extra Space Asia,Small,16152,139.89,0.759,30% off,24/7
+COMP-036,Simpang,StorHub,Small,14168,159.75,0.734,None,24/7
+COMP-037,Museum,Extra Space Asia,Medium,21738,255.09,0.684,20% off,24/7
+COMP-038,Seletar,Lock+Store,Large,51900,408.09,0.641,None,24/7
+COMP-039,Rochor,StorHub,Large,42447,554.47,0.919,1 month free,24/7
+COMP-040,Hougang,Work+Store,Large,38234,472.33,0.816,10% off,24/7
+COMP-041,Seletar,BEAM Space,Small,17333,150.54,0.64,None,24/7
+COMP-042,Southern Islands,Extra Space Asia,Small,14988,135.62,0.675,None,24/7
+COMP-043,Simpang,StorHub,Medium,23512,278.28,0.831,20% off,24/7
+COMP-044,Marina South,Lock+Store,Large,54005,483.1,0.917,None,24/7
+COMP-045,Ang Mo Kio,BEAM Space,Medium,20468,286.82,0.828,30% off,Extended
+COMP-046,Straits View,BEAM Space,Medium,25813,256.98,0.768,20% off,24/7
+COMP-047,Tuas,Lock+Store,Medium,20984,264.13,0.764,None,24/7
+COMP-048,Bedok,Extra Space Asia,Large,26970,434.89,0.673,20% off,Extended
+COMP-049,Boon Lay,BEAM Space,Medium,24446,284.53,0.606,None,24/7
+COMP-050,Newton,StorHub,Medium,28946,258.49,0.854,None,Extended
+COMP-051,Tampines,Extra Space Asia,Medium,26420,262.39,0.836,None,24/7
+COMP-052,Marina East,Extra Space Asia,Small,10116,165.32,0.677,None,24/7
+COMP-053,Toa Payoh,Other,Small,15783,185.39,0.557,30% off,Business hours
+COMP-054,Marina East,Space Next Door,Medium,20959,247.44,0.763,20% off,24/7
+COMP-055,Outram,StorHub,Large,47116,488.09,0.86,None,Business hours
+COMP-056,Bukit Timah,Extra Space Asia,Medium,24524,285.36,0.552,None,24/7
+COMP-057,Tanglin,Work+Store,Large,33666,464.31,0.717,None,24/7
+COMP-058,Bukit Timah,StorHub,Medium,27997,291.89,0.684,20% off,Extended
+COMP-059,Yishun,StorHub,Medium,28395,247.21,0.703,None,Business hours
+COMP-060,Central Water Catchment,Lock+Store,Small,17181,140.79,0.882,None,24/7
+COMP-061,Seletar,Lock+Store,Large,25768,467.97,0.718,10% off,24/7
+COMP-062,Western Water Catchment,Extra Space Asia,Medium,18335,293.71,0.688,None,Extended
