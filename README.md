@@ -12,8 +12,6 @@ location-based market analysis to support data-driven expansion decisions.
 
 ---
 
-![Singapore Storage Dashboard](singapore_storage.png)
-
 ## Business Objective
 
 The objective is to identify underserved Singapore planning areas and
@@ -168,7 +166,7 @@ The Executive Summary provides management with a high-level view of:
 
 ### Dashboard Preview
 
-![Executive Summary](screenshots/executive_summary.png)
+![Singapore Storage Dashboard](singapore_storage.png)
 
 ---
 
