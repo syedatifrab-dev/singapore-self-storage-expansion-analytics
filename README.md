@@ -1,5 +1,3 @@
-<img width="1367" height="682" alt="image" src="https://github.com/user-attachments/assets/cec83871-8678-4d76-93f2-572fedd36449" /># singapore-self-storage-expansion-analytics
-Commercial analytics and site-selection project for evaluating self-storage performance, customer demand, competitor presence, market opportunities, and expansion potential across Singapore.
 
 # Singapore Self-Storage Expansion Analytics
 
