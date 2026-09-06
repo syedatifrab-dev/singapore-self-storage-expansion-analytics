@@ -1,0 +1,13 @@
+store_id,planning_area,status,net_rentable_sqft,occupancy_pct,annual_revenue_sgd,annual_ebitda_sgd,payback_years,annual_rent_sgd,churn_rate
+STORE-01,Bedok,Existing,37835,90.0,512837,99586,3.5,102639,0.59
+STORE-02,Bukit Merah,Existing,40338,75.8,408444,46281,2.0,133993,0.49
+STORE-03,Clementi,Existing,38059,76.0,213810,60806,3.2,138456,0.66
+STORE-04,Hougang,Existing,38931,93.6,227968,71416,2.4,76954,0.61
+STORE-05,Jurong East,Existing,34032,75.2,189021,56793,3.0,103714,0.67
+STORE-06,Kallang,Existing,41236,78.5,268204,69680,3.0,91445,0.61
+STORE-07,Paya Lebar,Existing,31221,89.3,303338,100969,2.2,147964,0.64
+STORE-08,Ubi,Existing,30880,91.7,345727,103146,3.4,104017,0.46
+STORE-09,Tampines,Existing,20573,88.5,417608,71166,2.2,121604,0.56
+STORE-10,Toa Payoh,Existing,41193,83.1,238371,62700,1.8,143144,0.48
+STORE-11,Woodlands,Existing,23475,82.5,202840,71341,2.8,127616,0.48
+STORE-12,Sengkang,Existing,34725,73.4,486006,101803,3.0,118041,0.62
