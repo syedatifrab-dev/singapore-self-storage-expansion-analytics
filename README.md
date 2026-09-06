@@ -12,6 +12,8 @@ location-based market analysis to support data-driven expansion decisions.
 
 ---
 
+![Singapore Storage Dashboard](singapore_storage.png)
+
 ## Business Objective
 
 The objective is to identify underserved Singapore planning areas and
